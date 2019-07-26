@@ -1,0 +1,24 @@
+var teams = [
+    {name: 'Team 1', projects: [
+      {name: 'project 1', designs: [
+        {name: 'test 1', size: '123 MB'},
+        {name: 'wow 2', size: '23 MB'},
+        {name: 'wow 3', size: '153 MB'},
+        {name: 'hmmm 3', size: '3 MB'}
+      ]},
+      {name: 'project 2', designs: [
+        {name: 'test a', size: '123 MB'},
+        {name: 'test b', size: '432 MB'},
+      ]},
+    ]},
+    {name: 'Team 2', projects: [
+      {name: 'project a', designs: [
+        {name: 'hello test xyz', size: '55 MB'},
+        {name: 'test 5 xyz', size: '15 MB'},
+        {name: 'hmmm 6 xyz', size: '23 MB'}
+      ]},
+      {name: 'project b', designs: []},
+    ]},
+    {name: 'Team 3', projects: []}
+  ];
+  
